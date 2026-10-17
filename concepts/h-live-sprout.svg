@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><radialGradient id="glow" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#3dff8a" stop-opacity=".22"/><stop offset="1" stop-color="#3dff8a" stop-opacity="0"/></radialGradient><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#121a15"/><stop offset="1" stop-color="#060908"/></linearGradient><linearGradient id="fruit" x1=".2" y1="0" x2=".8" y2="1"><stop offset="0" stop-color="#c4ff5c"/><stop offset=".5" stop-color="#4cf56a"/><stop offset="1" stop-color="#14c79a"/></linearGradient><filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<rect width="512" height="512" rx="112" fill="url(#bgg)"/><rect width="512" height="512" rx="112" fill="url(#glow)"/>
+<g fill="none" stroke-linecap="round">
+<path d="M256 430V262" stroke="#2fd27a" stroke-width="22"/>
+<path d="M156 244A142 142 0 0 0 156 444M356 244A142 142 0 0 1 356 444" stroke="#3dff8a" stroke-opacity=".35" stroke-width="18"/>
+<path d="M200 288A80 80 0 0 0 200 400M312 288A80 80 0 0 1 312 400" stroke="#3dff8a" stroke-opacity=".7" stroke-width="18"/>
+</g>
+<path d="M256 270C256 196 206 150 140 150C140 224 190 270 256 270Z" fill="url(#fruit)" opacity=".85" transform="translate(0 -6)"/>
+<path d="M256 270C256 186 312 126 384 126C384 210 328 270 256 270Z" fill="url(#fruit)" transform="translate(0 -6)"/>
+<rect x="196" y="430" width="120" height="14" rx="7" fill="#2fd27a" opacity=".55"/>
+</svg>
