@@ -26,6 +26,8 @@ It's still clear at 20px, so it works as an avatar, a favicon and an app badge.
 | `logo.png` | 1024×1024, for the GitHub org avatar and anywhere that needs a PNG |
 | `banner.svg` | The logo with the name and tagline |
 | `banner.png` | 1280×640, for a repo's social preview (Settings → Social preview) |
+| `logo-square.svg`, `logo-square.png` | The logo with square corners, for places that round or crop it themselves (avatars, app icons) |
+| `banner-square.svg`, `banner-square.png` | The banner with the square-cornered logo |
 | `concepts/` | The logos that weren't picked, including the earlier pear ones in `concepts/pear/` |
 
 ## Colors
