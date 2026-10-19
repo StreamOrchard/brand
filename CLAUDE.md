@@ -1,6 +1,6 @@
 # StreamOrchard brand
 
-The logo, banner and wording for the **Stream-Orchard** GitHub organization (github.com/Stream-Orchard). `README.md`
+The logo, banner and wording for the **StreamOrchard** GitHub organization (github.com/StreamOrchard). `README.md`
 has the files, colors and wording; `concepts/` holds the logos that weren't picked.
 
 ## Rules

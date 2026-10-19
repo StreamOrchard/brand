@@ -45,7 +45,7 @@ The colors aren't any single platform's, so the brand doesn't belong to Kick, Tw
 
 ## Name
 
-Write it as **StreamOrchard** in text. The GitHub org is **Stream-Orchard** (github.com/Stream-Orchard). In the logo it's lowercase, with **stream** in a regular weight and **orchard** in bold.
+Write it as **StreamOrchard** in text. The GitHub org is github.com/StreamOrchard and the npm org is streamorchard. In the logo it's lowercase, with **stream** in a regular weight and **orchard** in bold.
 
 ## Wording
 
@@ -55,7 +55,7 @@ Write it as **StreamOrchard** in text. The GitHub org is **Stream-Orchard** (git
 
 > Desktop apps for people who live on live streams. Home of Stream Multiview and Pear Drops.
 
-**Profile README** (`Stream-Orchard/.github/profile/README.md`):
+**Profile README** (`StreamOrchard/.github/profile/README.md`):
 
 > **StreamOrchard** makes desktop apps for people who watch a lot of live streams. **Stream Multiview** puts streams and chats from Kick, Twitch and YouTube side by side, in any layout you want. **Pear Drops** runs the real player in the background and collects your drops while you watch something else. Both apps run on Windows, macOS and Linux.
 
